@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\phonex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\phonex\\.nuget\\packages"
+    ]
+  }
+}
